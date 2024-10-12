@@ -3,20 +3,16 @@
 body {
   display: flex;
   justify-content: center;
-  height: 100vh;
+  height: 80vh;
   width: 100%;
   background-color: aquamarine;
 }
 .cuadroExcusa {
-  width: 90%;
-  height: 70%;
+  width: 50%;
+  height: 200%;
   margin: 2%;
-  padding: 10%;
+  padding: 2%;
   box-shadow: 17px 17px 60px rgba(0, 0, 0, 15);
   text-align: center;
   background-color: azure;
-}
-button {
-  margin: 10%;
-  background-color: gold;
 }
